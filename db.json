@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "c52c1bd9-726b-4d74-8309-89c1be5501ec",
+      "email": "admin@gmail.com",
+      "password": "12345678zX",
+      "createdAt": 1701541585174
+    }
+  ],
+  "notes": []
+}

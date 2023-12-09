@@ -1,0 +1,12 @@
+
+.textContainer{
+  font-size: 1.2vw;
+  padding: 1vw;
+  word-wrap: break-word;
+  width: 60vw;
+  max-width: 60vw;
+  max-height: 14vw;
+  height: 14vw;
+  overflow:auto;
+  background-color:#dcdcdc;
+}

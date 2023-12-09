@@ -1,0 +1,10 @@
+
+.notes{
+    display: block;
+    flex-direction: column;
+    gap: 2vw;
+    height: 19vw;
+    max-height: 20vw;
+    width: 46.5vw;
+    overflow:auto;
+}

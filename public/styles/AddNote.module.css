@@ -1,0 +1,23 @@
+.titleContainer{
+    font-size: 1.5vw;
+    padding: 1vw;
+    width: 60vw;
+    height: 3vw;
+    background-color:#dcdcdc;
+}
+.textContainer{
+    font-size: 1.2vw;
+    padding: 1vw;
+    word-wrap: break-word;
+    width: 60vw;
+    max-width: 60vw;
+    max-height: 14vw;
+    height: 14vw;
+    overflow:auto;
+    background-color:#dcdcdc;
+}
+  .error{
+    text-align: center;
+   color: red; 
+   font-size: 1vw;
+  }
